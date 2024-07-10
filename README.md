@@ -1,20 +1,17 @@
 # 1. Overview of software quality and testing
 Software testing is a growing field - becoming extremely important as software touches more of what we do on a daily basis.
 
-As the complexity of software increases, testing has become more and more important.
+As software become complex, testing become more and more important.
 
 Testing results in programmers producing better code.
 
 Entry level software developers will be hired as testers first.
 
-## Why Testing
+## Why testing and what is testing
 - To find bugs
-
-## What is testing
-An methodical investigation conducted to provide information on a software program.
+- A methodical investigation conducted to provide information on a software
 
 ### Types of testing and application
-
 **V-Model / Waterfall**:
 1. Requirement analysis
   - Acceptance test design
@@ -35,12 +32,11 @@ An methodical investigation conducted to provide information on a software progr
 ## Quality Assurance (QA)
 A systematic monitoring and evaluation of different aspects of a product to ensure that quality standards are met
 
-The goal of QA is to ensure that proceses and procedures are followed and to improve the process with the goal to eventually improve the end product
+The goal of QA is to ensure that processes and procedures are followed and to improve the process with the goal to eventually improve the end product
 
-- Reduce the probility of bugs slip into the software in the first place
+- Reduce the probability of bugs slip into the software in the first place
 
 ### Programmers Involvement
-
 - Programmers are involved in testing
 - Programmers build well documented and formatted codes
 
@@ -48,7 +44,7 @@ The goal of QA is to ensure that proceses and procedures are followed and to imp
 
 ## ISO Certification
 - International Standards Organization
-- ISO 9000 processs is the standard of QA
+- ISO 9000 process is the standard of QA
   - ISO 9001, ISO 9000-3 applies to software development
 
 ### Main goals of ISO 9000 process
@@ -74,7 +70,7 @@ The goal of QA is to ensure that proceses and procedures are followed and to imp
 - Software Tester
 - Test Automation Specialist
 - Test Lead – Test plan developer/manager
-- Test Manager – Oversees all testing within an Organization 
+- Test Manager – Oversees all testing within an organization 
 - QA Engineer
 
 Many software development jobs, also list software testing as a part of the job requirements
@@ -129,7 +125,7 @@ A description of the correct operation of an application
 - Find gaps in understanding (client, developer, PM)
 - Fully understand the scope and requirements
 - Referred as: **Static black-box testing**
-- Have clients involved eraly on
+- Have clients involved early on
 - No code exists at this point
 
 #### 3 ways to evaluate the specification
@@ -220,7 +216,7 @@ Normal data that a user would enter into an application
 
 ### Test case outcome
 - Pass / Fail
-- During test to fail, if the fail case failed properly, then its a pass
+- During test to fail, if the fail-case failed properly, then it's a pass
 
 -----
 
@@ -228,7 +224,7 @@ Normal data that a user would enter into an application
 - A set / group of test data input
 
 ### Boundary Testing
-- Used for a input that accepts a range of values
+- Used for an input that accepts a range of values
 - Saves time
 - Bugs are likely to occur at the bounds of an array
 
@@ -241,7 +237,7 @@ Normal data that a user would enter into an application
 -----
 
 # 4. Test Plans
-**To identify:**
+**To identify**:
 - Requirements
 - Resources
 - Scheduling
@@ -273,14 +269,14 @@ Key to success is communicating
 -----
 
 ## Test plan document
-Actual look and feel of the document is company dependant
+Actual look and feel of the document are company dependent
 
 ### Test plan - Starting and Stopping Testing
 **ENTRY**
 - Under what conditions can testing start?
   - Will we do it throughout the cycle?
   - Do we wait for development to complete? 
-  - Documentation complete?	
+  - Documentation complete? 
 
 **EXIT**
 - When are we done? 
@@ -288,13 +284,13 @@ Actual look and feel of the document is company dependant
   - Bug detect frequency (i.e. # bugs/week)
   - Scheduling requirement – Deadlines
 
-### Test plan - Resouce Planning
+### Test plan - Resource Planning
 Resources that should be defined in a Testing project.
 
-- People  **
-- Equipment  **
+- People **
+- Equipment **
 - Office Space 
-- Software / Tools specific for the testing  **
+- Software / Tools specific for the testing **
   - Reporting / Tracking software
 - Outsourcing companies 
 - Miscellaneous Supplies
@@ -329,7 +325,7 @@ Testing must be integrated into the SDLC process, therefore:
 
 ### Test plan - Classifying bugs
 
-**When is it a bug?**
+**When is it a bug**?
 - Use project documents to confirm the expected behavior/result
 - Project Specification may be used as the guiding document
 
@@ -342,7 +338,7 @@ Testing must be integrated into the SDLC process, therefore:
 - Any unspecified / incorrect behavior should be reported
   - Simple: inconsistency in formatting, spelling
   - Major: crash, exceptions, BSOD
-- Generall, the programmer failed to consider all cases when these bugs occur
+- General, the programmer failed to consider all cases when these bugs occur
 
 -----
 
@@ -355,7 +351,7 @@ Testing must be integrated into the SDLC process, therefore:
 
 ## Gray box testing
 Partial view into the code on a web-page 
-- HTML is visible some CSS/javascript may also be visible
+- HTML is visible some CSS/JavaScript may also be visible
 - PHP is not visible at all——Blackbox
 
 ### Gray box testing - Items to review:
@@ -371,9 +367,9 @@ Partial view into the code on a web-page
 
 -----
 
-## High-quality website chartacteristics
+## High-quality website characteristics
 
-**Uniqie**
+**Unique**
 - Content is mostly unique
 - Content contains detail
 - Content describes both sides of a story
@@ -383,7 +379,7 @@ Partial view into the code on a web-page
 - Content is based on research and or experience
 
 **Accessibility**
-- A high quality website supports all users regardless of device
+- A high-quality website supports all users regardless of device
 
 **Usability**
 - Can read / navigate the website easily
